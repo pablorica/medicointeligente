@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@vueuse/core": "^10.7.1",
-    "apexcharts": "^3.45.1",
+    "apexcharts": "^4.4.0",
     "flatpickr": "^4.6.13",
     "jsvectormap": "^1.5.3",
     "pinia": "^2.1.7",
