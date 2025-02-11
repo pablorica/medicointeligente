@@ -85,7 +85,7 @@ vetur.config.js
 # Ignore potentially dangerous files (dependabot alerts)
 yarn.lock 
 package-lock.json
-
+vite.*.mjs
 
 # Cypress specific directories
 /cypress/videos/
